@@ -3,7 +3,7 @@ Student Grade Tracker
 
 ## Student Information
 - Course: CNS1001 - Introduction to Programming  
-- Students Name and ID # : Joshua Atkinson (2505156), Lavoy Burke (2209205), Alex Daley (2500977), Arianne Samuel (2507294), Deijahnae Hudson (2505962)
+- Students Name and ID # : Joshua Atkinson (2505156), Lavoy Burke (2209205), Alex Daley (2500977), Deijahnae Hudson (2505962)
 
 ## Problem Statement and Background
 Students often receive multiple assignments and tests across different modules each semester. This makes it difficult to track grades and determine overall performance. Without a proper system, students may lose track of their academic progress or fail to recognize whether they are passing or failing a module.
